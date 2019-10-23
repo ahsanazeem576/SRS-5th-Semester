@@ -14,22 +14,30 @@ Abdullah:
 10.The system should have a user friendly interface and easy to understand interface so users can make the full use of it.
 
 ALi:
+
 If user select fill in the blanks category then he will also select the number of blanks for students.
 The sentence started with “why what how” etc. should be selected automatically for making a question.
 If the question has two answers then the automated quiz maker will avoid this and choose the one and only answer for the computer for accuracy.
 User will be able to print the quiz after making quiz from this application.
-After clicking on the print button the system will provide several options for printing the quiz, option including printing sequentially, print after shuffling etc.
-If the user chooses the shuffled option then the quiz will automatically shuffled the question randomly and then create a print.
-User can also choose the font to create an accurate view for the student.
-You can print the questions by using numbering from1 to onward or by using bullets, so that the user can’t match their question from someone other.
-The nouns places between a sentences will also be chooses for making a question and the noun will be replaced by a blank.
+
+After clicking on the print button the system will provide several options for printing the quiz, option including printing sequentially, print after shuffling etc.    ***** (wrong)**** samajao kehna kiya chatay ho
+
+If the user chooses the shuffle option then the quiz will automatically be regenerated.
+User can also style the font/view to create the quiz for the student.
+
+You can print the questions by using numbering from 1 to onward or by using bullets, so that the user can’t match their question from someone other.   ***** (wrong)****
+
+The nouns places from sentences will also be choosen for making a question; the noun will be replaced by a blank.
 If a word in a question is wrong by default then the spell checker will correct it automatically.
 
 Ahsan:
 (write 10)
 
 Haziq:
-User will select the text and then click on create a quiz
+
+User will select the text and then click on create a quiz    ***** (wrong)****
+
+
 User can also make quiz from panel. E.g. add chapters from which he want to make quiz.
 User will create multiple quiz from same selected text and chapters by adding number of quiz and clicking on make different quizzes
 User will be able to make a quiz of different category e.g. Q/A, MCQs, Fill in the blank etc.
