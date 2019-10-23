@@ -6,16 +6,19 @@ Abdullah:
 2. User will be able to select pages or paragraphs from  the input file for further processing of automatic quiz generation.
 3.The system will skim through the pages/paragraghs and remove unnecessary data like pictures/graphs etc.
 4.The system will remove unnecessary words in each sentence to clean the data. Basically it will only have words like subjects, objects and verbs etc. and revome articles etc.
-5.
+5.The system should be able to create links between lines so it could understand that it is related to each other.
+6.common words should have a ranking system to improve their chances of appearing in the quiz.
+7.The system should make sure that the questions are not dublicated or are appearing twice or more times in a quiz.
+8.
 
 ALi:
-
+(write 10)
 
 Ahsan:
-
+(write 10)
 
 Haziq:
-
+(write 10)
 
 
 *NON-Functional*
@@ -27,9 +30,11 @@ Abdullah:
 4.System's machine learning algorithm should be well trained and have a accuracy percentage of more than 95%.
 
 ALi:
-
+(write 2)
 
 Ahsan:
-
+(write 2)
 
 Haziq:
+(write 2)
+
