@@ -3,8 +3,10 @@ Add Functional requirements below:
 Abdullah:
 
 1. User will be able to input a pdf/word file from the respective directory into the application through software's interface.
-2.
-
+2. User will be able to select pages or paragraphs from  the input file for further processing of automatic quiz generation.
+3.The system will skim through the pages/paragraghs and remove unnecessary data like pictures/graphs etc.
+4.The system will remove unnecessary words in each sentence to clean the data. Basically it will only have words like subjects, objects and verbs etc. and revome articles etc.
+5.
 
 ALi:
 
