@@ -15,3 +15,21 @@ Ahsan:
 
 
 Haziq:
+
+
+
+*NON-Functional*
+
+Abdullah:
+1.System should be able to complete a quiz in less than one minute.
+2.System should not end up in an infinite processing loop and should be able to stop without crashing.
+3.System should have a failure rate of 1 in 50 runs.
+4.System's machine learning algorithm should be well trained and have a accuracy percentage of more than 95%.
+
+ALi:
+
+
+Ahsan:
+
+
+Haziq:
