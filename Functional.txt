@@ -36,8 +36,6 @@ Ahsan:
 Haziq:
 
 User will merge two quizzes. E.g. teacher make quiz from two different books so our software create two different quiz, but only 1 quiz given to students so these two quizzes can be merge to make it a single one by user. 
-
-
 User can also make quiz from panel. E.g. add chapters from which he want to make quiz.
 User will create multiple quiz from same selected text and chapters by adding number of quiz and clicking on make different quizzes
 User will be able to make a quiz of different category e.g. Q/A, MCQs, Fill in the blank etc.
