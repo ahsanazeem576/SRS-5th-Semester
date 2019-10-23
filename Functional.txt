@@ -35,7 +35,7 @@ Ahsan:
 
 Haziq:
 
-User will select the text and then click on create a quiz    ***** (wrong)****
+User will merge two quizzes. E.g. teacher make quiz from two different books so our software create two different quiz, but only 1 quiz given to students so these two quizzes can be merge to make it a single one by user. 
 
 
 User can also make quiz from panel. E.g. add chapters from which he want to make quiz.
@@ -60,11 +60,13 @@ Abdullah:
 4.System's machine learning algorithm should be well trained and have a accuracy percentage of more than 95%.
 
 ALi:
-(write 2)
+System is very easy to understand for user he will be learn very quickly.
+System should able to load multiple files without crashing taking less than 30s.
 
 Ahsan:
 (write 2)
 
 Haziq:
-(write 2)
+System optimization is maximum so it save every changes happen by user after a minute without crashing to avoid losing data in case of power cut.
+System is portable and easily can be installed on other computers.
 
