@@ -1,3 +1,15 @@
 Add Functional requirements below:
 
-User will be able to input a pdf/word file from the respective directory into the application through software's interface.
+Abdullah:
+
+1. User will be able to input a pdf/word file from the respective directory into the application through software's interface.
+2.
+
+
+ALi:
+
+
+Ahsan:
+
+
+Haziq:
