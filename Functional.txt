@@ -69,10 +69,11 @@ Abdullah:
 4.System's machine learning algorithm should be well trained and have a accuracy percentage of more than 95%.
 
 ALi:
-System is very easy to understand for user he will be learn very quickly.
+System should be very easy to understand so that they can learn and use effectively.
 System should able to load multiple files without crashing taking less than 30s.
 
 Ahsan:
+******Both are irrelavent****
 The database shall be able to accommodate a minnimum of 10,000 records of students.
 The Software shall support use of multiple users at a time.
 
