@@ -74,9 +74,8 @@ System should be very easy to understand so that they can learn and use effectiv
 System should able to load multiple files without crashing taking less than 30s.
 
 Ahsan:
-******Both are irrelavent****
-The database shall be able to accommodate a minnimum of 10,000 records of students.
-The Software shall support use of multiple users at a time.
+System is easy to handle and navigates in the most expected way with no delays.
+The Quality of the system is maintained in such a way that it can be very user friendly to all the users.
 
 Haziq:
 System optimization is maximum so it save every changes happen by user after a minute without crashing to avoid losing data in case of power cut.
