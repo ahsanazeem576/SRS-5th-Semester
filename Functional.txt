@@ -19,19 +19,15 @@ If user select fill in the blanks category then he will also select the number o
 The sentence started with “why what how” etc. should be selected automatically for making a question.
 If the question has two answers then the automated quiz maker will avoid this and choose the one and only answer for the computer for accuracy.
 User will be able to print the quiz after making quiz from this application.
-
-After clicking on the print button the system will provide several options for printing the quiz, option including printing sequentially, print after shuffling etc.    ***** (wrong)**** samajao kehna kiya chatay ho
-
+if user chooses the save option, the quiz will be saved in a file on the respective device.
+User can print quiz multiple number of times by giving a number as an input.
 If the user chooses the shuffle option then the quiz will automatically be regenerated.
 User can also style the font/view to create the quiz for the student.
-
-You can print the questions by using numbering from 1 to onward or by using bullets, so that the user can’t match their question from someone other.   ***** (wrong)****
-
 The nouns places from sentences will also be choosen for making a question; the noun will be replaced by a blank.
 If a word in a question is wrong by default then the spell checker will correct it automatically.
 
 Ahsan:
-**************almost saray out of scope hain*******************
+********************************************************************
 Users can make quiz according to their interest.              ****zahar si baat hai... bohat basic hai functional req ni hai
 After completing the quiz, result will be displayed automatically.         *** attempt ni kerray
 User can view the description about each and every question in respective quiz.      ****description kis type ki sense ni ban ri... question hi hai
@@ -74,8 +70,8 @@ System should be very easy to understand so that they can learn and use effectiv
 System should able to load multiple files without crashing taking less than 30s.
 
 Ahsan:
-System is easy to handle and navigates in the most expected way with no delays.
-The Quality of the system is maintained in such a way that it can be very user friendly to all the users.
+System is easy to handle and navigates in the most expected way with no delays.                               **** ambiguous hai explain
+The Quality of the system is maintained in such a way that it can be very user friendly to all the users.     **** ali se milti julti
 
 Haziq:
 System optimization is maximum so it save every changes happen by user after a minute without crashing to avoid losing data in case of power cut.
