@@ -31,7 +31,18 @@ The nouns places from sentences will also be choosen for making a question; the 
 If a word in a question is wrong by default then the spell checker will correct it automatically.
 
 Ahsan:
-(write 10)
+Users can make quiz according to their interest.
+After completing the quiz, result will be displayed automatically.
+User can view the description about each and every question in respective quiz.
+The user can also check his previous examination marks and his detail.
+Every Test Session can be saved in a log file and studied further.
+User can get question level data to see which were hard and which were easy for quiz takers.
+User can also show and hide their score after completing Quiz.
+User can save the questions and will access online anywhere.
+User can create a quiz from his already existing file and copy questions from already generated quiz.
+During Quiz if a users closes their browser,they can log straight back in within 20 minutes and system will alow them to resume the quiz.
+Users can also set the quiz to "Save results and finish later" So They can come back anytime to finish the Quiz.
+
 
 Haziq:
 
