@@ -32,17 +32,17 @@ If a word in a question is wrong by default then the spell checker will correct 
 
 Ahsan:
 **************almost saray out of scope hain*******************
-Users can make quiz according to their interest.
-After completing the quiz, result will be displayed automatically.
-User can view the description about each and every question in respective quiz.
-The user can also check his previous examination marks and his detail.
-Every Test Session can be saved in a log file and studied further.
-User can get question level data to see which were hard and which were easy for quiz takers.
-User can also show and hide their score after completing Quiz.
-User can save the questions and will access online anywhere.
-User can create a quiz from his already existing file and copy questions from already generated quiz.
-During Quiz if a users closes their browser,they can log straight back in within 20 minutes and system will alow them to resume the quiz.
-Users can also set the quiz to "Save results and finish later" So They can come back anytime to finish the Quiz.
+Users can make quiz according to their interest.              ****zahar si baat hai... bohat basic hai functional req ni hai
+After completing the quiz, result will be displayed automatically.         *** attempt ni kerray
+User can view the description about each and every question in respective quiz.      ****description kis type ki sense ni ban ri... question hi hai
+The user can also check his previous examination marks and his detail.   **** same masla attempt ni ker ray
+Every Test Session can be saved in a log file and studied further.      ****** same
+User can get question level data to see which were hard and which were easy for quiz takers.         ****ye sai hai explain sai ni
+User can also show and hide their score after completing Quiz.       ***** attempt ni ker ray
+User can save the quiz and can access online anytime.    **sai hai
+User can create a quiz from his already existing file and copy questions from already generated quiz.          ****sai hai
+During Quiz if a users closes their browser,they can log straight back in within 20 minutes and system will alow them to resume the quiz.          **** WTF!! change kerde
+Users can also set the quiz to "Save results and finish later" So They can come back anytime to finish the Quiz.    ***attempt ni kerre
 ********************************************************************
 
 Haziq:
