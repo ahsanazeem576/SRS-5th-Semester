@@ -70,8 +70,8 @@ System should be very easy to understand so that they can learn and use effectiv
 System should able to load multiple files without crashing taking less than 30s.
 
 Ahsan:
-System is easy to handle and navigates in the most expected way with no delays.                               **** ambiguous hai explain
-The Quality of the system is maintained in such a way that it can be very user friendly to all the users.     **** ali se milti julti
+The sysem should be more secure and reliable at any condition.
+The system interface would be viewed best using 1024X786 and 800X600 pixes resolution setting.
 
 Haziq:
 System optimization is maximum so it save every changes happen by user after a minute without crashing to avoid losing data in case of power cut.
