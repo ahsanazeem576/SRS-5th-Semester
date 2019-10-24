@@ -28,17 +28,14 @@ If a word in a question is wrong by default then the spell checker will correct 
 
 Ahsan:
 ********************************************************************
-Users can make quiz according to their interest.              ****zahar si baat hai... bohat basic hai functional req ni hai
-After completing the quiz, result will be displayed automatically.         *** attempt ni kerray
-User can view the description about each and every question in respective quiz.      ****description kis type ki sense ni ban ri... question hi hai
-The user can also check his previous examination marks and his detail.   **** same masla attempt ni ker ray
-Every Test Session can be saved in a log file and studied further.      ****** same
-User can get question level data to see which were hard and which were easy for quiz takers.         ****ye sai hai explain sai ni
-User can also show and hide their score after completing Quiz.       ***** attempt ni ker ray
-User can save the quiz and can access online anytime.    **sai hai
-User can create a quiz from his already existing file and copy questions from already generated quiz.          ****sai hai
-During Quiz if a users closes their browser,they can log straight back in within 20 minutes and system will alow them to resume the quiz.          **** WTF!! change kerde
-Users can also set the quiz to "Save results and finish later" So They can come back anytime to finish the Quiz.    ***attempt ni kerre
+User can also check his previous generated quiz and its details such as Number of MCQ's,its difficulty level.
+User can get question level data to see which were hard and which were easy for quiz takers.
+User can create a quiz from his already existing file and copy questions from already generated quiz.
+Data in a file that is about History,date etc become MCQ automatically.
+User will be able to enter the distribution of marks for each Question.
+User can also randomize the quiz that is generated,Such as he can shuffle the questions one after one.In this way,He can generate same quiz in different ways.
+User can also generate a quiz that includes both the Mcq's and fill in the blanks.
+User can save the quiz and can access online anytime.
 ********************************************************************
 
 Haziq:
