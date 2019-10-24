@@ -62,7 +62,8 @@ System is very easy to understand for user he will be learn very quickly.
 System should able to load multiple files without crashing taking less than 30s.
 
 Ahsan:
-(write 2)
+The database shall be able to accommodate a minimum of 10,000 records of students.
+The Software shall support use of multiple users at a time.
 
 Haziq:
 System optimization is maximum so it save every changes happen by user after a minute without crashing to avoid losing data in case of power cut.
